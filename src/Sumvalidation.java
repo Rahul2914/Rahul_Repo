@@ -22,6 +22,7 @@ public class Sumvalidation {
 			int amount = courseprice *coursecopies;
 			System.out.println(amount);
 			sum = sum + amount;
+			System.out.println(amount);
 		
 	}
 	
